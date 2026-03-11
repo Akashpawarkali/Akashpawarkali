@@ -1,87 +1,68 @@
-👋 Hi, I'm Akash Pawar
-Senior Software Engineer | MERN Stack | DevOps
+🚀 Akash Pawar
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Senior+Software+Engineer;MERN+Stack+Developer;DevOps+Engineer;Building+Scalable+Cloud+Applications" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Akashpawarkali&label=Profile%20views&color=0e75b6&style=flat" /> <img src="https://img.shields.io/github/followers/Akashpawarkali?label=Followers&style=social" /> </p>
+👨‍💻 About Me
 
-[2.3+ years of experience building scalable web applications and optimizing deployment pipelines]
+💻 Senior Software Engineer with 2.3+ years experience
 
-🚀 About Me
-I'm a passionate Senior Software Engineer with 2.3 years of hands-on experience in full-stack development and DevOps practices. I specialize in building robust, scalable web applications using the MERN stack while ensuring smooth deployment and infrastructure management through modern DevOps tools.
+⚡ Specialized in MERN Stack & DevOps
 
-🛠️ Tech Stack & Tools
-Frontend Development
-https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white
-https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
-https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
+☁️ Experienced in AWS, Docker, Kubernetes
 
-Backend Development
-https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
-https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
-https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
-https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
-https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white
+🚀 Passionate about building scalable distributed systems
 
-DevOps & Cloud
-https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white
-https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white
-https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white
-https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white
-https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white
-https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white
-https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white
-https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white
+📈 Love optimizing performance & cloud infrastructure
 
-Tools & Methodologies
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
-https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white
-https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
-https://img.shields.io/badge/CI%252FCD-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
-https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=terraform&logoColor=white
+🧠 Tech Stack
+🎨 Frontend
+<p> <img src="https://skillicons.dev/icons?i=react,nextjs,ts,redux,tailwind,materialui,js,html,css,vite,webpack"/> </p>
+⚙️ Backend
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,graphql,firebase"/> </p>
+☁️ DevOps & Cloud
+<p> <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,ansible,jenkins,githubactions,nginx,linux,bash,prometheus,grafana"/> </p>
+📊 GitHub Analytics
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Akashpawarkali&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashpawarkali&layout=compact&theme=tokyonight&hide_border=true"/> </p>
+🔥 GitHub Streak
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akashpawarkali&theme=tokyonight&hide_border=true"/> </p>
+🐍 Contribution Snake
+![snake gif](https://github.com/Akashpawarkali/Akashpawarkali/blob/output/github-contribution-grid-snake.svg)
 
-💼 Professional Experience
-Senior Software Engineer | [Current Company]
-[Month Year] - Present
+To enable this snake animation you need a GitHub Action.
+Tell me and I will give you the automatic workflow file.
 
-Leading development of scalable MERN stack applications serving 10K+ daily active users
+🚀 Featured Projects
+🛒 E-Commerce Platform
 
-Implemented CI/CD pipelines reducing deployment time by 40%
+Tech: React, Node.js, MongoDB, Redis, Docker, AWS
 
-Containerized applications using Docker and orchestrated with Kubernetes
+✔ 500+ product e-commerce system
+✔ Real-time inventory management
+✔ Handles 1000+ concurrent users
 
-Optimized database queries resulting in 30% faster API response times
+💬 Real-Time Chat Application
 
-Mentored junior developers and conducted code reviews
+Tech: Next.js, Socket.io, Redis, PostgreSQL
 
-Software Engineer | [Previous Company]
-[Month Year] - [Month Year]
+✔ 1:1 and group chat
+✔ Typing indicators & read receipts
+✔ 5000+ concurrent connections
 
-Developed and maintained multiple full-stack web applications
+📊 DevOps Monitoring Dashboard
 
-Integrated third-party APIs and implemented real-time features using WebSockets
+Tech: Prometheus, Grafana, Node.js, Docker
 
-Set up monitoring and alerting systems using Prometheus and Grafana
+✔ Monitoring 15+ microservices
+✔ Real-time metrics dashboard
+✔ Automated alerting system
 
-Collaborated with cross-functional teams in an Agile environment
+📜 Certifications
 
-🏆 Key Achievements
-🚀 Performance Optimization: Reduced application load time by 50% through code splitting and lazy loading
+🏆 AWS Certified Cloud Practitioner
+🏆 Docker Certified Associate
+🏆 MongoDB Associate Developer
+🏆 Meta Backend Developer
 
-🔧 Infrastructure Migration: Successfully migrated on-premise applications to AWS cloud
+📫 Connect With Me
+<p> <a href="https://linkedin.com/in/akashpawar"> <img src="https://skillicons.dev/icons?i=linkedin"/> </a> <a href="https://twitter.com/akashpawar"> <img src="https://skillicons.dev/icons?i=twitter"/> </a> <a href="mailto:akash.pawar@email.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> </p>
 
-📈 Scalability: Designed microservices architecture handling 1M+ requests/day
-
-🎯 Automation: Implemented automated backup and recovery systems reducing downtime by 60%
-
-📊 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=akashpawar&show_icons=true&theme=radical
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=akashpawar&layout=compact&theme=radical
-
-📫 Let's Connect!
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white
-https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
-
-⭐️ From Akash Pawar
+⭐ Last Updated: March 2026
