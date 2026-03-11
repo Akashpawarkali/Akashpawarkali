@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/github/stars/Akashpawarkali?label=Stars&style=flat" />
 </p>
 
----<!-- ABOUT ME -->
+<!-- ABOUT ME -->
 <h2 align="center">⚡ ABOUT ME ⚡</h2>
 
 <table align="center" width="90%">
@@ -62,7 +62,6 @@ Microservices • Distributed Systems
 
 </tr>
 </table>
----
 
 ## 🛠️ Technical Skills
 
