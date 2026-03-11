@@ -35,7 +35,7 @@
 <table align="center" width="100%">
   <tr>
     <td width="40%" align="center">
-      <img src="https://avatars.githubusercontent.com/u/123456789?v=4" width="180" style="border-radius: 50%; border: 4px solid #3B82F6;">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" style="border-radius:20px;">
       <h3>Akash Pawar</h3>
       <p>📍 Mumbai, India</p>
       <p>
