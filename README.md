@@ -42,22 +42,14 @@
 <b>🚀 Senior Software Engineer</b>  
 Passionate about building <b>scalable applications</b> and <b>cloud-native systems</b>.
 
-<br><br>
-
 <b>💻 MERN Stack Specialist</b>  
 React • Node.js • MongoDB • Express
-
-<br><br>
 
 <b>☁️ DevOps & Cloud</b>  
 AWS • Docker • Kubernetes • CI/CD
 
-<br><br>
-
 <b>⚙️ Architecture</b>  
 Microservices • Distributed Systems
-
-<br><br>
 
 <b>🎯 Currently Working On</b>
 <ul>
