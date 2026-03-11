@@ -33,77 +33,23 @@
 <h2 align="center">⚡ ABOUT ME ⚡</h2>
 
 <table align="center" width="100%">
-<tr>
-
-<td width="40%" align="center">
-
-<img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="160" style="border-radius:50%;">
-
-<h3>Akash Pawar</h3>
-
-<p>📍 Mumbai, India</p>
-
-<p>
-<img src="https://img.shields.io/badge/Senior-Software_Engineer-3B82F6?style=for-the-badge">
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Experience-2.3%2B_Years-blue?style=for-the-badge">
-</p>
-
-<br>
-
-<img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="50"/>
-<img src="https://cdn-icons-png.flaticon.com/512/4149/4149679.png" width="50"/>
-<img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="50"/>
-
-</td>
-
-
-<td width="60%">
-
-<h3>🚀 Senior Software Engineer</h3>
-
-<p>
-Building <b>scalable web platforms</b>, 
-<b>cloud infrastructure</b>, and 
-<b>high-performance backend systems</b>.
-</p>
-
-<br>
-
-### ⚡ Core Expertise
-
-💻 **Full-Stack Development**  
-☁️ **Cloud & DevOps Engineering**  
-⚙️ **Microservices Architecture**  
-📈 **High-Performance Systems**
-
-<br>
-
-### 🛠 Tech Focus
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,aws,docker,kubernetes,terraform,redis,postgres"/>
-
-<br>
-
-### 🎯 Currently Working On
-
-- Cloud Native Applications  
-- Kubernetes Infrastructure  
-- Distributed Systems  
-- DevOps Automation Pipelines  
-
-<br>
-
-<img src="https://img.shields.io/badge/Projects-15%2B-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/DevOps-CI%2FCD-green?style=for-the-badge">
-
-</td>
-
-</tr>
+  <tr>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" style="border-radius:20px;">
+      <h3>Akash Pawar</h3>
+      <p>📍 Mumbai, India</p>
+      <p>
+        <img src="https://img.shields.io/badge/2.3%2B-YEARS_EXPERIENCE-3B82F6">
+      </p>
+    </td>
+    <td width="60%">
+      <p>🚀 <b>Senior Software Engineer</b> passionate about building scalable applications</p>
+      <p>💻 <b>MERN Stack + DevOps Specialist</b></p>
+      <p>☁️ <b>AWS  • Docker • Kubernetes • CI/CD Expert</b></p>
+      <p>🎯 Currently working on <b>Microservices Architecture</b> & <b>Cloud Native Applications</b></p>
+  </tr>
 </table>
+
 <!-- Tech Stack Section -->
 <h2 align="center">🛠️ TECHNOLOGY STACK</h2>
 
