@@ -32,22 +32,75 @@
 <!-- About Me Section -->
 <h2 align="center">⚡ ABOUT ME ⚡</h2>
 
+<!-- About Me Section -->
+<h2 align="center">⚡ ABOUT ME ⚡</h2>
+
 <table align="center" width="100%">
-  <tr>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" style="border-radius:20px;">
-      <h3>Akash Pawar</h3>
-      <p>📍 Mumbai, India</p>
-      <p>
-        <img src="https://img.shields.io/badge/2.3%2B-YEARS_EXPERIENCE-3B82F6">
-      </p>
-    </td>
-    <td width="60%">
-      <p>🚀 <b>Senior Software Engineer</b> passionate about building scalable applications</p>
-      <p>💻 <b>MERN Stack + DevOps Specialist</b></p>
-      <p>☁️ <b>AWS  • Docker • Kubernetes • CI/CD Expert</b></p>
-      <p>🎯 Currently working on <b>Microservices Architecture</b> & <b>Cloud Native Applications</b></p>
-  </tr>
+<tr>
+
+<td width="40%" align="center">
+
+<img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="140"/>
+
+<h3>Akash Pawar</h3>
+
+<p>📍 Mumbai, India</p>
+
+<p>
+<img src="https://img.shields.io/badge/Senior-Software_Engineer-3B82F6?style=for-the-badge">
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Experience-2.3%2B_Years-blue?style=for-the-badge">
+</p>
+
+<br>
+
+<!-- Developer Avatars -->
+
+<img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="60"/>
+<img src="https://cdn-icons-png.flaticon.com/512/4149/4149679.png" width="60"/>
+<img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="60"/>
+<img src="https://cdn-icons-png.flaticon.com/512/2721/2721279.png" width="60"/>
+
+<p><i>Developer • DevOps • Cloud • Backend</i></p>
+
+</td>
+
+
+<td width="60%">
+
+<h3>🚀 Senior Software Engineer</h3>
+
+<p>
+Passionate about building <b>scalable applications</b> and 
+<b>cloud-native systems</b>.
+</p>
+
+<br>
+
+<p>💻 <b>MERN Stack + DevOps Specialist</b></p>
+
+<p>☁️ <b>AWS • Docker • Kubernetes • CI/CD</b></p>
+
+<p>⚙️ <b>Backend Architecture • Microservices</b></p>
+
+<p>📊 <b>Performance Optimization</b></p>
+
+<br>
+
+<h4>🎯 Current Focus</h4>
+
+<ul>
+<li>Cloud Native Applications</li>
+<li>Microservices Architecture</li>
+<li>Kubernetes Infrastructure</li>
+<li>DevOps Automation</li>
+</ul>
+
+</td>
+
+</tr>
 </table>
 
 <!-- Tech Stack Section -->
