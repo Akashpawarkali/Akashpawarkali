@@ -1,54 +1,210 @@
 <div align="center">
   
 
-  <!-- Animated Name -->
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=45&duration=3000&pause=500&color=3B82F6&center=true&vCenter=true&width=600&height=80&lines=AKASH+PAWAR;SENIOR+SOFTWARE+ENGINEER;MERN+STACK+EXPERT;DEVOPS+SPECIALIST" alt="Typing SVG">
+<div align="center">
+  
+  <!-- Animated Snake Banner -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 
-  <!-- Social Links -->
+  <br><br>
+
+  <!-- Animated Name with Gradient Effect -->
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=42&duration=3000&pause=500&color=3B82F6&center=true&vCenter=true&width=700&height=80&lines=✨+AKASH+PAWAR+✨;🚀+SENIOR+SOFTWARE+ENGINEER;💻+MERN+STACK+EXPERT;☁️+DEVOPS+SPECIALIST" alt="Typing SVG">
+
+  <br>
+
+  <!-- Social Links with Hover Effect (using HTML/CSS) -->
   <p>
     <a href="https://linkedin.com/in/akash-pawar-835145242/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5">
     </a>
     <a href="https://github.com/Akashpawarkali">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117">
     </a>
     <a href="mailto:akashpawarkali@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836">
     </a>
     <a href="https://akashpawar.dev">
-      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white">
+      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722">
+    </a>
+    <a href="https://twitter.com/akashpawar">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2">
+    </a>
+    <a href="https://dev.to/akashpawar">
+      <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=0A0A0A">
     </a>
   </p>
 
-  <!-- Profile Stats -->
+  <!-- Profile Stats with Icons -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=Akashpawarkali&label=PROFILE+VIEWS&color=3B82F6&style=for-the-badge">
-    <img src="https://img.shields.io/github/followers/Akashpawarkali?style=for-the-badge&logo=github&color=3B82F6">
-    <img src="https://img.shields.io/github/stars/Akashpawarkali?style=for-the-badge&logo=github&color=3B82F6">
+    <img src="https://komarev.com/ghpvc/?username=Akashpawarkali&label=👀+PROFILE+VIEWS&color=3B82F6&style=for-the-badge">
+    <img src="https://img.shields.io/github/followers/Akashpawarkali?style=for-the-badge&logo=github&label=🔥+FOLLOWERS&color=8B5CF6">
+    <img src="https://img.shields.io/github/stars/Akashpawarkali?style=for-the-badge&logo=github&label=⭐+STARS&color=EC4899">
   </p>
 
 </div>
 
-<!-- About Me Section -->
-<h2 align="center">⚡ ABOUT ME ⚡</h2>
+<br>
 
-<table align="center" width="100%">
+<!-- About Me Section with Card Style -->
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="35" height="35">
+  ⚡ ABOUT ME ⚡
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="35" height="35">
+</h2>
+
+<br>
+
+<!-- Main Card Container -->
+<table align="center" width="90%" cellpadding="0" cellspacing="0" style="border: none; background: transparent;">
   <tr>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" style="border-radius:20px;">
-      <h3>Akash Pawar</h3>
-      <p>📍 Mumbai, India</p>
-      <p>
-        <img src="https://img.shields.io/badge/2.3%2B-YEARS_EXPERIENCE-3B82F6">
-      </p>
+    <!-- Left Column - Profile Card -->
+    <td width="35%" valign="top" style="padding: 20px; border-radius: 30px; background: linear-gradient(145deg, #0D1117, #161B22); border: 2px solid #3B82F6; box-shadow: 0 20px 30px rgba(59,130,246,0.3);">
+      <div align="center">
+        
+        <!-- Animated GIF with Glow Effect -->
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" style="border-radius: 50%; border: 4px solid #3B82F6; box-shadow: 0 0 30px #3B82F6; margin: 15px 0;">
+        
+        <!-- Name with Gradient -->
+        <h2 style="background: linear-gradient(45deg, #3B82F6, #8B5CF6); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin: 10px 0; font-size: 28px;">
+          Akash Pawar
+        </h2>
+        
+        <!-- Location Badge -->
+        <p>
+          <img src="https://img.shields.io/badge/📍-Mumbai,_India-3B82F6?style=for-the-badge">
+        </p>
+        
+        <!-- Experience Badge -->
+        <p>
+          <img src="https://img.shields.io/badge/⏳-2.3%2B_Years_Experience-8B5CF6?style=for-the-badge">
+        </p>
+        
+        <!-- Quick Stats -->
+        <table width="100%" style="margin-top: 15px;">
+          <tr>
+            <td align="center" style="border: 1px solid #3B82F6; border-radius: 15px; padding: 10px; background: rgba(59,130,246,0.1);">
+              <strong style="color: #3B82F6; font-size: 20px;">15+</strong><br>
+              <span style="color: #8B949E;">Projects</span>
+            </td>
+            <td width="10"></td>
+            <td align="center" style="border: 1px solid #8B5CF6; border-radius: 15px; padding: 10px; background: rgba(139,92,246,0.1);">
+              <strong style="color: #8B5CF6; font-size: 20px;">500+</strong><br>
+              <span style="color: #8B949E;">Contributions</span>
+            </td>
+            <td width="10"></td>
+            <td align="center" style="border: 1px solid #EC4899; border-radius: 15px; padding: 10px; background: rgba(236,72,153,0.1);">
+              <strong style="color: #EC4899; font-size: 20px;">10+</strong><br>
+              <span style="color: #8B949E;">Repositories</span>
+            </td>
+          </tr>
+        </table>
+        
+      </div>
     </td>
-    <td width="60%">
-      <p>🚀 <b>Senior Software Engineer</b> passionate about building scalable applications</p>
-      <p>💻 <b>MERN Stack + DevOps Specialist</b></p>
-      <p>☁️ <b>AWS  • Docker • Kubernetes • CI/CD Expert</b></p>
-      <p>🎯 Currently working on <b>Microservices Architecture</b> & <b>Cloud Native Applications</b></p>
+    
+    <!-- Spacing Column -->
+    <td width="5%"></td>
+    
+    <!-- Right Column - Bio Card -->
+    <td width="60%" valign="top" style="padding: 30px; border-radius: 30px; background: linear-gradient(145deg, #0D1117, #161B22); border: 2px solid #8B5CF6; box-shadow: 0 20px 30px rgba(139,92,246,0.3);">
+      
+      <!-- Bio Content -->
+      <div style="margin-bottom: 25px;">
+        <p style="font-size: 18px; line-height: 1.8; color: #C9D1D9;">
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="25"> 
+          <b style="color: #3B82F6;">Senior Software Engineer</b> passionate about building scalable applications
+        </p>
+        
+        <p style="font-size: 18px; line-height: 1.8; color: #C9D1D9;">
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25"> 
+          <b style="color: #8B5CF6;">MERN Stack</b> + <b style="color: #EC4899;">DevOps</b> Specialist
+        </p>
+        
+        <p style="font-size: 18px; line-height: 1.8; color: #C9D1D9;">
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Cloud.png" width="25"> 
+          <b style="color: #3B82F6;">AWS</b> • <b style="color: #8B5CF6;">Docker</b> • <b style="color: #EC4899;">Kubernetes</b> • <b style="color: #3B82F6;">CI/CD</b> Expert
+        </p>
+        
+        <p style="font-size: 18px; line-height: 1.8; color: #C9D1D9;">
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" width="25"> 
+          🎯 Currently working on <b style="color: #8B5CF6;">Microservices Architecture</b> & <b style="color: #EC4899;">Cloud Native Applications</b>
+        </p>
+      </div>
+      
+      <!-- Skills Tags -->
+      <h4 style="color: #3B82F6; margin-bottom: 15px;">🔥 Core Competencies</h4>
+      
+      <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 25px;">
+        <span style="background: rgba(59,130,246,0.2); color: #3B82F6; padding: 8px 16px; border-radius: 30px; border: 1px solid #3B82F6; font-size: 14px;">React.js</span>
+        <span style="background: rgba(139,92,246,0.2); color: #8B5CF6; padding: 8px 16px; border-radius: 30px; border: 1px solid #8B5CF6; font-size: 14px;">Node.js</span>
+        <span style="background: rgba(236,72,153,0.2); color: #EC4899; padding: 8px 16px; border-radius: 30px; border: 1px solid #EC4899; font-size: 14px;">TypeScript</span>
+        <span style="background: rgba(59,130,246,0.2); color: #3B82F6; padding: 8px 16px; border-radius: 30px; border: 1px solid #3B82F6; font-size: 14px;">MongoDB</span>
+        <span style="background: rgba(139,92,246,0.2); color: #8B5CF6; padding: 8px 16px; border-radius: 30px; border: 1px solid #8B5CF6; font-size: 14px;">Docker</span>
+        <span style="background: rgba(236,72,153,0.2); color: #EC4899; padding: 8px 16px; border-radius: 30px; border: 1px solid #EC4899; font-size: 14px;">Kubernetes</span>
+        <span style="background: rgba(59,130,246,0.2); color: #3B82F6; padding: 8px 16px; border-radius: 30px; border: 1px solid #3B82F6; font-size: 14px;">AWS</span>
+        <span style="background: rgba(139,92,246,0.2); color: #8B5CF6; padding: 8px 16px; border-radius: 30px; border: 1px solid #8B5CF6; font-size: 14px;">GraphQL</span>
+      </div>
+      
+      <!-- Weekly Activity with Progress Bars -->
+      <h4 style="color: #8B5CF6; margin-bottom: 15px;">📊 Weekly Activity</h4>
+      
+      <!-- Code Commits -->
+      <div style="margin-bottom: 15px;">
+        <div style="display: flex; justify-content: space-between; color: #C9D1D9; margin-bottom: 5px;">
+          <span>📝 Code Commits</span>
+          <span style="color: #3B82F6;">95%</span>
+        </div>
+        <div style="width: 100%; height: 12px; background: #21262D; border-radius: 6px; overflow: hidden;">
+          <div style="width: 95%; height: 12px; background: linear-gradient(90deg, #3B82F6, #8B5CF6); border-radius: 6px;"></div>
+        </div>
+      </div>
+      
+      <!-- PR Reviews -->
+      <div style="margin-bottom: 15px;">
+        <div style="display: flex; justify-content: space-between; color: #C9D1D9; margin-bottom: 5px;">
+          <span>🔄 PR Reviews</span>
+          <span style="color: #8B5CF6;">88%</span>
+        </div>
+        <div style="width: 100%; height: 12px; background: #21262D; border-radius: 6px; overflow: hidden;">
+          <div style="width: 88%; height: 12px; background: linear-gradient(90deg, #8B5CF6, #EC4899); border-radius: 6px;"></div>
+        </div>
+      </div>
+      
+      <!-- Documentation -->
+      <div style="margin-bottom: 15px;">
+        <div style="display: flex; justify-content: space-between; color: #C9D1D9; margin-bottom: 5px;">
+          <span>📖 Documentation</span>
+          <span style="color: #EC4899;">92%</span>
+        </div>
+        <div style="width: 100%; height: 12px; background: #21262D; border-radius: 6px; overflow: hidden;">
+          <div style="width: 92%; height: 12px; background: linear-gradient(90deg, #EC4899, #3B82F6); border-radius: 6px;"></div>
+        </div>
+      </div>
+      
+      <!-- Quote -->
+      <div style="margin-top: 25px; padding: 15px; background: rgba(59,130,246,0.1); border-radius: 15px; border-left: 4px solid #3B82F6;">
+        <p style="color: #C9D1D9; font-style: italic; margin: 0;">
+          "The only way to do great work is to love what you do." - Steve Jobs
+        </p>
+      </div>
+      
+    </td>
   </tr>
 </table>
+
+<!-- Bottom Spacer -->
+<br>
+<br>
+
+<!-- Small Divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
 
 <!-- Tech Stack Section -->
 <h2 align="center">🛠️ TECHNOLOGY STACK</h2>
