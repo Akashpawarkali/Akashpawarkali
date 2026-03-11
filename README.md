@@ -1,7 +1,6 @@
 <div align="center">
   
-  <!-- Animated Name -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=500&color=3B82F6&center=true&vCenter=true&width=600&lines=✨+AKASH+PAWAR+✨;🚀+SENIOR+SOFTWARE+ENGINEER;💻+MERN+STACK+EXPERT;☁️+DEVOPS+SPECIALIST" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=45&duration=3000&pause=500&color=3B82F6&center=true&vCenter=true&width=600&height=80&lines=AKASH+PAWAR;SENIOR+SOFTWARE+ENGINEER;MERN+STACK+EXPERT;DEVOPS+SPECIALIST" alt="Typing SVG">
 
   <!-- Social Links -->
   <p>
