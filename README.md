@@ -17,16 +17,7 @@
 
 ---
 
-## 👨‍💻 About Me
-
-I'm a **Senior Software Engineer** with 2.3 years of experience specializing in **MERN Stack** and **DevOps**. I'm passionate about building scalable applications and optimizing cloud infrastructure.
-
-- 🔭 Currently working on **Microservices Architecture** & **Cloud Native Applications**
-- 🌱 Learning **Advanced Kubernetes** & **AWS Solutions Architecture**
-- 💬 Ask me about **MERN Stack, Docker, Kubernetes, AWS, CI/CD**
-- 📫 Reach me at **akashpawarkali@gmail.com**
-- ⚡ Fun fact: I can debug production issues at 3 AM ☕
-
+<!-- About Me Section --> <h2 align="center">⚡ ABOUT ME ⚡</h2> <table align="center" width="100%"> <tr> <td width="40%" align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" style="border-radius:20px;"> <h3>Akash Pawar</h3> <p>📍 Mumbai, India</p> <p> <img src="https://img.shields.io/badge/2.3%2B-YEARS_EXPERIENCE-3B82F6"> </p> </td> <td width="60%"> <p>🚀 <b>Senior Software Engineer</b> passionate about building scalable applications</p> <p>💻 <b>MERN Stack + DevOps Specialist</b></p> <p>☁️ <b>AWS • Docker • Kubernetes • CI/CD Expert</b></p> <p>🎯 Currently working on <b>Microservices Architecture</b> & <b>Cloud Native Applications</b></p> </tr> </table>
 ---
 
 ## 🛠️ Technical Skills
