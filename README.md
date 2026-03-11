@@ -32,15 +32,12 @@
 <!-- About Me Section -->
 <h2 align="center">⚡ ABOUT ME ⚡</h2>
 
-<!-- About Me Section -->
-<h2 align="center">⚡ ABOUT ME ⚡</h2>
-
 <table align="center" width="100%">
 <tr>
 
 <td width="40%" align="center">
 
-<img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="140"/>
+<img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="160" style="border-radius:50%;">
 
 <h3>Akash Pawar</h3>
 
@@ -56,14 +53,9 @@
 
 <br>
 
-<!-- Developer Avatars -->
-
-<img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="60"/>
-<img src="https://cdn-icons-png.flaticon.com/512/4149/4149679.png" width="60"/>
-<img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="60"/>
-<img src="https://cdn-icons-png.flaticon.com/512/2721/2721279.png" width="60"/>
-
-<p><i>Developer • DevOps • Cloud • Backend</i></p>
+<img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="50"/>
+<img src="https://cdn-icons-png.flaticon.com/512/4149/4149679.png" width="50"/>
+<img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="50"/>
 
 </td>
 
@@ -73,36 +65,45 @@
 <h3>🚀 Senior Software Engineer</h3>
 
 <p>
-Passionate about building <b>scalable applications</b> and 
-<b>cloud-native systems</b>.
+Building <b>scalable web platforms</b>, 
+<b>cloud infrastructure</b>, and 
+<b>high-performance backend systems</b>.
 </p>
 
 <br>
 
-<p>💻 <b>MERN Stack + DevOps Specialist</b></p>
+### ⚡ Core Expertise
 
-<p>☁️ <b>AWS • Docker • Kubernetes • CI/CD</b></p>
-
-<p>⚙️ <b>Backend Architecture • Microservices</b></p>
-
-<p>📊 <b>Performance Optimization</b></p>
+💻 **Full-Stack Development**  
+☁️ **Cloud & DevOps Engineering**  
+⚙️ **Microservices Architecture**  
+📈 **High-Performance Systems**
 
 <br>
 
-<h4>🎯 Current Focus</h4>
+### 🛠 Tech Focus
 
-<ul>
-<li>Cloud Native Applications</li>
-<li>Microservices Architecture</li>
-<li>Kubernetes Infrastructure</li>
-<li>DevOps Automation</li>
-</ul>
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,aws,docker,kubernetes,terraform,redis,postgres"/>
+
+<br>
+
+### 🎯 Currently Working On
+
+- Cloud Native Applications  
+- Kubernetes Infrastructure  
+- Distributed Systems  
+- DevOps Automation Pipelines  
+
+<br>
+
+<img src="https://img.shields.io/badge/Projects-15%2B-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/DevOps-CI%2FCD-green?style=for-the-badge">
 
 </td>
 
 </tr>
 </table>
-
 <!-- Tech Stack Section -->
 <h2 align="center">🛠️ TECHNOLOGY STACK</h2>
 
