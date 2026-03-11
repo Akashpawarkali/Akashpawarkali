@@ -55,24 +55,7 @@
       <p>☁️ <b>AWS Certified • Docker • Kubernetes • CI/CD Expert</b></p>
       <p>🎯 Currently working on <b>Microservices Architecture</b> & <b>Cloud Native Applications</b></p>
       
-      <h4>📊 Weekly Activity</h4>
-      <table width="100%">
-        <tr>
-          <td>Code Commits</td>
-          <td width="70%"><progress value="95" max="100" style="width: 100%; height: 10px; border-radius: 5px;"></progress></td>
-          <td>95%</td>
-        </tr>
-        <tr>
-          <td>PR Reviews</td>
-          <td><progress value="88" max="100" style="width: 100%; height: 10px; border-radius: 5px;"></progress></td>
-          <td>88%</td>
-        </tr>
-        <tr>
-          <td>Documentation</td>
-          <td><progress value="92" max="100" style="width: 100%; height: 10px; border-radius: 5px;"></progress></td>
-          <td>92%</td>
-        </tr>
-      </table>
+ 
     </td>
   </tr>
 </table>
