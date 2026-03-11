@@ -15,58 +15,56 @@
   <img src="https://img.shields.io/github/stars/Akashpawarkali?label=Stars&style=flat" />
 </p>
 
----
-<!-- ABOUT ME -->
+---<!-- ABOUT ME -->
 <h2 align="center">⚡ ABOUT ME ⚡</h2>
 
-<table align="center" width="85%">
+<table align="center" width="90%">
 <tr>
 
-<!-- LEFT CARD -->
-<td align="center" width="40%">
+<!-- LEFT SIDE -->
+<td width="40%" align="center">
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="260">
-
-<br><br>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="230">
 
 <h3>Akash Pawar</h3>
 
 📍 Mumbai, India
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/EXPERIENCE-2.3%2B%20YEARS-3B82F6?style=for-the-badge">
 
 </td>
 
-<!-- RIGHT CONTENT -->
+<!-- RIGHT SIDE -->
 <td width="60%">
 
-### 🚀 Senior Software Engineer
+<b>🚀 Senior Software Engineer</b>  
+Passionate about building <b>scalable applications</b> and <b>cloud-native systems</b>.
 
-Passionate about building **scalable applications** and **cloud-native systems**.
+<br><br>
 
-<br>
-
-### 💻 MERN Stack Specialist
+<b>💻 MERN Stack Specialist</b>  
 React • Node.js • MongoDB • Express
 
-<br>
+<br><br>
 
-### ☁️ DevOps & Cloud
+<b>☁️ DevOps & Cloud</b>  
 AWS • Docker • Kubernetes • CI/CD
 
-<br>
+<br><br>
 
-### ⚙️ Architecture
+<b>⚙️ Architecture</b>  
 Microservices • Distributed Systems
 
-<br>
+<br><br>
 
-### 🎯 Currently Working On
-- Cloud Native Applications  
-- Kubernetes Infrastructure  
-- DevOps Automation  
+<b>🎯 Currently Working On</b>
+<ul>
+<li>Cloud Native Applications</li>
+<li>Kubernetes Infrastructure</li>
+<li>DevOps Automation</li>
+</ul>
 
 </td>
 
