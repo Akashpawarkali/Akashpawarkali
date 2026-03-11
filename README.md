@@ -20,59 +20,51 @@
 <!-- About Me Section -->
 <h2 align="center">⚡ ABOUT ME ⚡</h2>
 
-<table align="center" width="90%" cellpadding="10">
+<table align="center">
 <tr>
 
-<!-- Left Side -->
-<td width="40%" align="center">
+<td align="center" width="40%">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" style="border-radius:20px;" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
 
 <br><br>
 
 <h3>Akash Pawar</h3>
 
-<p>📍 <b>Mumbai, India</b></p>
+<p>📍 Mumbai, India</p>
 
-<img src="https://img.shields.io/badge/Experience-2.3%2B%20Years-3B82F6?style=for-the-badge" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Senior-Software%20Engineer-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/Experience-2.3%2B%20Years-3B82F6?style=for-the-badge"/>
 
 </td>
 
-<!-- Right Side -->
-<td width="60%" align="left">
+<td width="60%">
 
-<h3>🚀 Senior Software Engineer</h3>
+### 🚀 Senior Software Engineer
 
-<p>
-Passionate about building <b>scalable applications</b>, 
-<b>cloud-native systems</b>, and 
-<b>high-performance backend architectures</b>.
-</p>
+Passionate about building **scalable applications** and **cloud-native systems**.
 
 <br>
 
-<b>💻 MERN Stack Specialist</b><br>
+💻 **MERN Stack Specialist**  
 React • Node.js • MongoDB • Express
 
-<br><br>
+<br>
 
-<b>☁️ DevOps & Cloud</b><br>
-AWS • Docker • Kubernetes • CI/CD • Terraform
+☁️ **DevOps & Cloud**  
+AWS • Docker • Kubernetes • CI/CD
 
-<br><br>
+<br>
 
-<b>🎯 Currently Working On</b>
+⚙️ **Architecture**  
+Microservices • Distributed Systems
 
-<ul>
-<li>Microservices Architecture</li>
-<li>Cloud Native Applications</li>
-<li>Kubernetes Infrastructure</li>
-<li>DevOps Automation</li>
-</ul>
+<br>
+
+🎯 **Currently Working On**
+
+- Cloud Native Applications  
+- Kubernetes Infrastructure  
+- DevOps Automation  
 
 </td>
 
