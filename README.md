@@ -16,27 +16,30 @@
 </p>
 
 ---
-
-<!-- About Me Section -->
+<!-- ABOUT ME -->
 <h2 align="center">⚡ ABOUT ME ⚡</h2>
 
-<table align="center">
+<table align="center" width="85%">
 <tr>
 
+<!-- LEFT CARD -->
 <td align="center" width="40%">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="260">
 
 <br><br>
 
 <h3>Akash Pawar</h3>
 
-<p>📍 Mumbai, India</p>
+📍 Mumbai, India
 
-<img src="https://img.shields.io/badge/Experience-2.3%2B%20Years-3B82F6?style=for-the-badge"/>
+<br><br>
+
+<img src="https://img.shields.io/badge/EXPERIENCE-2.3%2B%20YEARS-3B82F6?style=for-the-badge">
 
 </td>
 
+<!-- RIGHT CONTENT -->
 <td width="60%">
 
 ### 🚀 Senior Software Engineer
@@ -45,23 +48,22 @@ Passionate about building **scalable applications** and **cloud-native systems**
 
 <br>
 
-💻 **MERN Stack Specialist**  
+### 💻 MERN Stack Specialist
 React • Node.js • MongoDB • Express
 
 <br>
 
-☁️ **DevOps & Cloud**  
+### ☁️ DevOps & Cloud
 AWS • Docker • Kubernetes • CI/CD
 
 <br>
 
-⚙️ **Architecture**  
+### ⚙️ Architecture
 Microservices • Distributed Systems
 
 <br>
 
-🎯 **Currently Working On**
-
+### 🎯 Currently Working On
 - Cloud Native Applications  
 - Kubernetes Infrastructure  
 - DevOps Automation  
