@@ -17,7 +17,67 @@
 
 ---
 
-<!-- About Me Section --> <h2 align="center">⚡ ABOUT ME ⚡</h2> <table align="center" width="100%"> <tr> <td width="40%" align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" style="border-radius:20px;"> <h3>Akash Pawar</h3> <p>📍 Mumbai, India</p> <p> <img src="https://img.shields.io/badge/2.3%2B-YEARS_EXPERIENCE-3B82F6"> </p> </td> <td width="60%"> <p>🚀 <b>Senior Software Engineer</b> passionate about building scalable applications</p> <p>💻 <b>MERN Stack + DevOps Specialist</b></p> <p>☁️ <b>AWS • Docker • Kubernetes • CI/CD Expert</b></p> <p>🎯 Currently working on <b>Microservices Architecture</b> & <b>Cloud Native Applications</b></p> </tr> </table>
+<!-- About Me Section -->
+<h2 align="center">⚡ ABOUT ME ⚡</h2>
+
+<table align="center" width="90%" cellpadding="10">
+<tr>
+
+<!-- Left Side -->
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" style="border-radius:20px;" />
+
+<br><br>
+
+<h3>Akash Pawar</h3>
+
+<p>📍 <b>Mumbai, India</b></p>
+
+<img src="https://img.shields.io/badge/Experience-2.3%2B%20Years-3B82F6?style=for-the-badge" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Senior-Software%20Engineer-8B5CF6?style=flat-square" />
+
+</td>
+
+<!-- Right Side -->
+<td width="60%" align="left">
+
+<h3>🚀 Senior Software Engineer</h3>
+
+<p>
+Passionate about building <b>scalable applications</b>, 
+<b>cloud-native systems</b>, and 
+<b>high-performance backend architectures</b>.
+</p>
+
+<br>
+
+<b>💻 MERN Stack Specialist</b><br>
+React • Node.js • MongoDB • Express
+
+<br><br>
+
+<b>☁️ DevOps & Cloud</b><br>
+AWS • Docker • Kubernetes • CI/CD • Terraform
+
+<br><br>
+
+<b>🎯 Currently Working On</b>
+
+<ul>
+<li>Microservices Architecture</li>
+<li>Cloud Native Applications</li>
+<li>Kubernetes Infrastructure</li>
+<li>DevOps Automation</li>
+</ul>
+
+</td>
+
+</tr>
+</table>
 ---
 
 ## 🛠️ Technical Skills
