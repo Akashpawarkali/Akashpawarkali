@@ -141,20 +141,7 @@ Microservices • Distributed Systems
 
 ---
 
-## 🏆 Certifications
 
-| Certification | Issuer | Year |
-|--------------|--------|------|
-| AWS Certified Cloud Practitioner | Amazon Web Services | 2024 |
-| Docker Certified Associate | Docker | 2023 |
-| MongoDB Associate Developer | MongoDB | 2023 |
-| Meta Backend Developer | Meta | 2022 |
-
----
-
-## 📈 Weekly Development Breakdown
-
----
 
 ## 🤝 Connect With Me
 
@@ -171,24 +158,16 @@ Microservices • Distributed Systems
 ## 💼 Work Experience
 
 ### Senior Software Engineer
-**TechCorp Solutions** | Jan 2024 - Present
+**Bridgeviewmaritime pvt ltd** | Feb 2025 - Present
 - Developed and deployed 3 major MERN stack applications
 - Reduced API response time by 65% through optimization
 - Implemented CI/CD pipeline reducing deployment time by 70%
 
 ### Software Engineer
-**Digital Innovations** | Aug 2022 - Dec 2023
-- Built 5 full-stack applications for healthcare clients
-- Integrated 10+ third-party APIs
+**OGCS Pvt Ltd** | Sep 2024 - Feb 2025
+- Built 3 full-stack applications for Constrcution Side
+- Integrated 5+ third-party APIs
 - Achieved 85% test coverage
-
----
-
-## 📚 Latest Blog Posts
-
-- [Building Scalable Microservices with Docker & Kubernetes](https://akashpawar.dev/blog/microservices)
-- [CI/CD Pipeline Optimization: From 2 Hours to 15 Minutes](https://akashpawar.dev/blog/cicd)
-- [MongoDB vs PostgreSQL: When to Use Which?](https://akashpawar.dev/blog/databases)
 
 ---
 
