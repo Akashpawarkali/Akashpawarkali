@@ -39,7 +39,7 @@
 <!-- RIGHT SIDE -->
 <td width="60%">
 
-<b>🚀 Senior Software Engineer</b>  
+<b>🚀 Software Engineer</b>  
 Passionate about building <b>scalable applications</b> and <b>cloud-native systems</b>.
 
 <b>💻 MERN Stack Specialist</b>  
@@ -154,13 +154,13 @@ Microservices • Distributed Systems
 
 ## 💼 Work Experience
 
-### Senior Software Engineer
+### Senior Software Developer
 **Bridgeviewmaritime pvt ltd** | Feb 2025 - Present
 - Developed and deployed 3 major MERN stack applications
 - Reduced API response time by 65% through optimization
 - Implemented CI/CD pipeline reducing deployment time by 70%
 
-### Software Engineer
+### Software Developer
 **OGCS Pvt Ltd** | Sep 2024 - Feb 2025
 - Built 3 full-stack applications for Constrcution Side
 - Integrated 5+ third-party APIs
